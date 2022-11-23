@@ -1,0 +1,47 @@
+body{
+	background: url(https://images.unsplash.com/photo-1493238792000-8113da705763?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHx8&w=1000&q=80) no-repeat center center fixed;
+	background-size: cover;
+	color: yellow;
+}
+
+.header{
+	
+	color: rgb(74, 16, 84); font-family: 'Pinyon Script', cursive; font-size: 40px; text-shadow: 1px 1px 5px #FF0000;
+	transition: 0.5s;
+}
+
+.header:hover{
+	transform: scale(1.1);
+}
+
+.register{
+	height:30px;
+	width:80px;
+	text-align: center;
+	transition: 0.3s;
+}
+
+.register:hover{
+	transform: scale(1.1)
+}
+
+img{
+	transition: 1s;
+}
+
+img:hover{
+	transform: scale(1.1);
+}
+
+h3{
+	color: blueviolet;
+}
+
+h5{
+	color:greenyellow;
+}
+
+li{
+	list-style: none;
+}
+
